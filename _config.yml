@@ -1,17 +1,17 @@
 # site settings
 title: NoPad
 subtitle: by Erblocker
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+email: chainsx@outlook.com
+description: NoPad计划是由DiXin_Ren的构想，cgoxopx在Erblocker里提出，chainsx进行实现的<br /> 一个关于改善云课堂教学模式的计划
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: ""
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: github
+city: Erblocker
+state: chainsx
+zip_code: dixin_ren
+country: YRSSF&Pandora-magicbox
+phone: chainsx@outlook.com
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -20,9 +20,9 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url:https://github.com/Erblocker
+gitlab_url: https://gitlab.com/chainsx
+googleplus_url: https://plus.google.com/u/0/+pzhrhlx
 instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
