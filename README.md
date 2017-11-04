@@ -1,65 +1,27 @@
-# Forty - Jekyll Theme
+# Erblocker的NoPad计划
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+## 欢迎访问NoPad主页，在这里，你可以找到关于NoPad计划的相关信息
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+# [Erblocker](https://github.com/Erblocker)
 
-# How to Use
+# 关于Erblocker：
+   
+   Erblocker是由cgoxopx发起的一场关于云课堂改革的方案计划，旨在提高[睿易云](http://www.ruiyiyun.com)的质量，
+   
+   所以，这里仅提供学术交流。
+   
+## 我们希望睿易云课堂越办越好
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
-and [creating pages](https://jekyllrb.com/docs/pages/).
+# Erblocker的NoPad涉及的项目
 
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
+ 
+ * YRSSF(大佬级别作品)  | [稳定版](https://github.com/Erblocker/YRSSF) | [开发版](https://github.com/cgoxopx/YRSSF) | [特别版](https://github.com/anti-ry/YRSSF)
+  
+  
+  * Pandora-magicbox(根据cgoxopx以及DX_Chaos(Dixin_Ren)的思路实现) | [安卓版](https://github.com/Erblocker/Pandora-magicbox/tree/master/arch/ARM/Android) | [Debian/Ubuntu](https://github.com/Erblocker/Pandora-magicbox/tree/master/arch/ARM/Linux) | [适用于mipsel的路由器版本](https://github.com/Erblocker/Pandora-magicbox/tree/master/arch/mipsel/openwrt)
+   
+   
+ * ThetaTheta(基于YRSSF的去中心化视频直播平台) | [开发中](https://github.com/Erblocker/ThetaTheta) |
+   
 
-# Added Features
-
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* Set **featured images** in front matter.
-
-# Credits
-
-Original README from HTML5 UP:
-
-```
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
-```
-
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+# 感谢Dixin_Ren的nopad.org域名提供
