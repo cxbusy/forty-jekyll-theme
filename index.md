@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: 主页
 landing-title: '欢迎来到NoPad主页'
 description: null
 image: null
